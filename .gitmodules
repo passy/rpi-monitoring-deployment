@@ -1,0 +1,6 @@
+[submodule "graphite-api"]
+	path = graphite-api
+	url = git@github.com:passy/rpi-docker-graphite-api
+[submodule "carbon-whisper"]
+	path = carbon-whisper
+	url = git@github.com:passy/rpi-docker-carbon-whisper
