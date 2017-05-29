@@ -4,3 +4,6 @@
 [submodule "carbon-whisper"]
 	path = carbon-whisper
 	url = git@github.com:passy/rpi-docker-carbon-whisper
+[submodule "statsd"]
+	path = statsd
+	url = git@github.com:passy/rpi-docker-statsd
