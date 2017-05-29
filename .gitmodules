@@ -1,9 +1,9 @@
 [submodule "graphite-api"]
 	path = graphite-api
-	url = git@github.com:passy/rpi-docker-graphite-api
+	url = https://github.com/passy/rpi-docker-graphite-api
 [submodule "carbon-whisper"]
 	path = carbon-whisper
-	url = git@github.com:passy/rpi-docker-carbon-whisper
+	url = https://github.com/passy/rpi-docker-carbon-whisper
 [submodule "statsd"]
 	path = statsd
-	url = git@github.com:passy/rpi-docker-statsd
+	url = https://github.com/passy/rpi-docker-statsd
